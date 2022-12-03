@@ -7,8 +7,8 @@ In this project, we used Pandas and Tableau to analyze data from the Citi Bike p
 The aim of this project is create effective visualizations from the Citi Bike data in order to impress potential investors and convince them that a bike-sharing program in Des Moines is a solid business proposal.
 
 ## Resources
- * Data Source: 
- * [Link to Tableau dashboard](https://public.tableau.com/app/profile/preeti.verma/viz/BikeTripAnalysis_16701051617420/BikeTripAnalysis?publish=yes)
+ * Data Source: 201908-citibike-tripdata.csv.zip from [Citi Bike System Data Page](https://ride.citibikenyc.com/system-data)
+ * Link to Tableau Dashboard: [Bike trip Analysis Dashboard](https://public.tableau.com/app/profile/preeti.verma/viz/BikeTripAnalysis_16701051617420/BikeTripAnalysis?publish=yes)
  
  ## Results
  Using Tableau, we have created the following visualizations:
