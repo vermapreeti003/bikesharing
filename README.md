@@ -8,7 +8,7 @@ The aim of this project is create effective visualizations from the Citi Bike da
 
 ## Resources
  * Data Source: 
- * Link to Tableau Dashboard: 
+ * [Link to Tableau dashboard](https://public.tableau.com/app/profile/preeti.verma/viz/BikeTripAnalysis_16701051617420/BikeTripAnalysis?publish=yes)
  
  ## Results
  Using Tableau, we have created the following visualizations:
