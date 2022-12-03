@@ -12,6 +12,7 @@ The aim of this project is create effective visualizations from the Citi Bike da
  
  ## Results
  Using Tableau, we have created the following visualizations:
+ 
  1- NYC Citi Bike General Dashboard
  
  
@@ -46,6 +47,7 @@ The aim of this project is create effective visualizations from the Citi Bike da
 
   * The number of riders decreases as the time increases.
   * When the amount of time for renting bike increases, the number of rides by male remains higher than that by female. However, the difference in the number of rides      between sex becomes relatively smaller.
+  
 3- The number of bike trips by weekday for each hour of the day as a heatmap
 
 
